@@ -1,0 +1,25 @@
+_repo: La-lutte-pour-la-sant---13-Essai-de-pathologie-g-n-rale_12105
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Burlureaux, Charles
+    birthdate: 1851
+    deathdate: 1927
+    gutenberg_agent_id: '4227'
+    url: http://www.gutenberg.org/2009/agents/4227
+description: ''
+gutenberg_bookshelf: FR Sciences et Techniques
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12105'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'RB'
+- !lcsh 'Pathology'
+- GITenberg
+title: "La lutte pour la santé\r\nEssai de pathologie générale"
+url: http://www.gutenberg.org/ebooks/12105
